@@ -72,7 +72,7 @@ const Hero = () => {
           <div className="flex items-center max-lg:mt-5">
             {/* download cv */}
     <a
-  href="/LoayZeidResume.pdf"
+  href="/LoayZeidResume1.pdf"
   download="Loay_Zeid_Frontend_Developer_CV.pdf"
   className="mr-5 flex cursor-pointer items-center gap-2 rounded-md border border-white
     bg-yellow-600 p-5 font-light text-white transition ease-out hover:bg-transparent"
