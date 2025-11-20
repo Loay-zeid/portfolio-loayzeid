@@ -13,4 +13,41 @@ Welcome to my personal portfolio website showcasing my skills, projects, and pro
 #### 4. Functioning email sender
 - Send me email directly throught the contact form. Powered by **web3forms** and
   notification handled by **sweetalert2**.
+## 🚀 Tools & Technologies
+
+### Frontend:
+- **React-TS**: The portfolio is powered by **React** with **TypeScript** for a robust, scalable, and type-safe codebase.
+- **Vite**: Ultra-fast development environment with quick build times.
+- **TailwindCSS**: A utility-first CSS framework used to create a custom design effortlessly.
+- **Framer Motion**: For modern, declarative animations and smooth transitions.
+### Deployment
+- Hosted on **Vercel** for a fast and scalable web app experience.
+
+## ⚙️ How to Run Locally
+1. Clone the repository:
+```bash
+git clone https://github.com/arfeloreed/animated-portfolio.git
+```
+2. Install dependencies:
+```bash
+cd animated-portfolio
+npm install
+```
+3. Run the development server:
+```bash
+npm run dev
+```
+
+## 📄 License
+This project is licensed under the MIT License.
+
+<br />
+
+### Live demo:
+ https://portfolio-loayzeid.vercel.app/
+
+<br />
+
+#
+
 
