@@ -66,7 +66,7 @@ const Hero = () => {
           <h1 className="text-[50px] tracking-wider max-lg:text-4xl mt-2 font-light ">
             Softweer engineer with Deep Frontend web
             <br />
-            Development skills
+            Development knowledge
           </h1>
 
           <div className="flex items-center max-lg:mt-5">
