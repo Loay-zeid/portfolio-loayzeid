@@ -12,14 +12,15 @@ const Navbar = () => {
         <img
           src={brand}
           alt="Brand logo for Arfelo Reed"
-          width={40}
-          height={40}
+          width={70}
+          height={70}
         />
         <motion.span
-          className="cursor-default font-bold uppercase"
+          className="cursor-default font-bold uppercase" 
           initial={{ opacity: 0, scale: 0.5 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
+          
         >
           Loay Zeid
         </motion.span>
