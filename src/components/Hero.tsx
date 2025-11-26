@@ -59,14 +59,14 @@ const Hero = () => {
           className="flex h-full w-1/2 flex-col justify-center gap-10 max-lg:mt-12 max-lg:h-1/2
             max-lg:w-full max-lg:items-center max-lg:gap-5 max-lg:text-center"
         >
-          <h2 className="text-3xl tracking-[10px] max-lg:text-2xl">
+          <h2 className="text-6xl tracking-[10px] max-lg:text-5xl mt-14 font-bold ">
             Hi I'm <span className="text-purple-800">Loay</span>
           </h2>
 
-          <h1 className="text-[50px] font-bold tracking-wider max-lg:text-5xl">
-            Softweer engineer with skills on Frontend web
+          <h1 className="text-[50px] tracking-wider max-lg:text-4xl mt-2 font-light ">
+            Softweer engineer with Deep Frontend web
             <br />
-            Development
+            Development skills
           </h1>
 
           <div className="flex items-center max-lg:mt-5">
@@ -75,7 +75,7 @@ const Hero = () => {
   href="/LoayZeidResume1.pdf"
   download="Loay_Zeid_Frontend_Developer_CV.pdf"
   className="mr-5 flex cursor-pointer items-center gap-2 rounded-md border border-white
-    bg-yellow-600 p-5 font-light text-white transition ease-out hover:bg-transparent"
+    bg-[#324856] p-5 font-light text-white transition ease-out hover:bg-transparent"
 >
   <FaDownload /> Download my CV
 </a>
